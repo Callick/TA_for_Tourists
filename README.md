@@ -29,7 +29,7 @@ Before using this project, ensure the following:
     pip install streamlit numpy pillow easyocr pandas langdetect deep-translator geopy streamlit-folium
 ```
  **3. Install Tesseract OCR**
-   **Windows:** Download then install following link - https://github.com/UB-Mannheim/tesseract/wiki
+   **Windows:** Download then install following link - https://github.com/UB-Mannheim/tesseract/wiki<br>
    **MacOS:** ``` brew install tesseract ```
    **Linux (Debian/Ubuntu):** ``` sudo apt install tesseract-ocr ```
    
