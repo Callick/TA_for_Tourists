@@ -29,7 +29,34 @@ Before using this project, ensure the following:
     pip install streamlit numpy pillow easyocr pandas langdetect deep-translator geopy streamlit-folium
 ```
  **3. Install Tesseract OCR**
-   **Windows:** Download then install following link - https://github.com/UB-Mannheim/tesseract/wiki<br>
-   **MacOS:** ``` brew install tesseract ```
-   **Linux (Debian/Ubuntu):** ``` sudo apt install tesseract-ocr ```
-   
+  - Windows: Download then install the following link - https://github.com/UB-Mannheim/tesseract/wiki
+  - MacOS:
+```
+    brew install tesseract
+```
+  - Linux (Debian/Ubuntu):
+```
+    sudo apt install tesseract-ocr
+```
+ **4. Download Landmark Data**
+ The project includes 'porto_landmarks.csv' with major Porto attractions. Just keep it on the same path.
+## 🖥️ Running the Application
+```
+    streamlit run TAforTourists.py
+```
+## 📂 Project Structure
+Keep files as instructed below
+```
+    Translation Assistant for Tourists/
+├── TAforTourists.py          # Main application
+├── porto_landmarks.csv       # Landmark database with coordinates
+├── assets/                   # Sample images for testing(optional)
+```
+## 🧪 Testing the System
+Here you go to test the system. Under the folder 'properties', you will find sample images for testing the system. [N. B. If your machine doesn't support recommended GPU settings, the feature of suggested places won't be able to expand in a broad map view.]
+
+## 🌟 Recommended Hardware
+  **1. CPU:** Intel i5 or equivalent <br>
+  **2. RAM:** 8GB+ <br>
+  **3. Webcam:** 720p+ resolution <br>
+  **4. GPU:** NVIDIA GPU with CUDA support (not required but recommended) <br>
