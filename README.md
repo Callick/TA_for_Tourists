@@ -13,3 +13,23 @@ This is an intelligent translation system designed to assist visitors in communi
   **3. Geospatial:** Folium, GeoPy, Nominatim <br>
   **4. Data Processing:** Pandas, NumPy <br>
   **5. Computer Vision:** Pillow (PIL) <br>
+## ⚙️ Prerequisites
+Before using this project, ensure the following:
+  1. Python 3.9+
+  2. Tesseract OCR engine
+  3. Webcam (for live capture feature)
+## 🚀 Installation & Setup
+ **1. Clone the repository:**
+```
+    git clone https://github.com/Callick/TA_for_Tourists.git
+    cd TA_for_Tourists
+```
+ **2. Install Python Dependencies**
+```
+    pip install streamlit numpy pillow easyocr pandas langdetect deep-translator geopy streamlit-folium
+```
+ **3. Install Tesseract OCR**
+   **Windows:** Download then install following link - https://github.com/UB-Mannheim/tesseract/wiki
+   **MacOS:** ``` brew install tesseract ```
+   **Linux (Debian/Ubuntu):** ``` sudo apt install tesseract-ocr ```
+   
