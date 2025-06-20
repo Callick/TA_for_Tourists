@@ -19,7 +19,7 @@ This is an intelligent translation system designed to assist visitors in communi
 ## ⚙️ Prerequisites
 Before using this project, ensure the following:
   1. Python 3.9+
-  2. Tesseract OCR engine
+  2. [Tesseract OCR engine](https://github.com/UB-Mannheim/tesseract/wiki)
   3. Webcam (for live capture feature)
 ## 🚀 Installation & Setup
  **1. Clone the repository:**
