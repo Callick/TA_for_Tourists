@@ -19,8 +19,8 @@ This is an intelligent translation system designed to assist visitors in communi
 ## ⚙️ Prerequisites
 Before using this project, ensure the following:
   1. [Python 3.9+](https://www.python.org/downloads/)
-  2. [Tesseract OCR engine](https://github.com/UB-Mannheim/tesseract/wiki)
-  `While installing 'Tesseract OCR' make sure that you tick an option like saying 'Additional language data'. Or into that option select 'Portuguese' language.`
+  2. [Tesseract OCR engine](https://github.com/UB-Mannheim/tesseract/wiki)<br>
+  `N. B. - While installing 'Tesseract OCR' make sure that you tick an option like saying 'Additional language data'. Or into that option select 'Portuguese' language.`
   3. Webcam (for live capture feature)
 ## 🚀 Installation & Setup
  **1. Clone the repository:**
