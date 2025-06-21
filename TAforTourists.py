@@ -315,6 +315,6 @@ st.markdown("---")
 st.markdown("""
     <div style='text-align:center; color:#666; margin-top:30px;'>
         Built with ❤️ for Porto visitors | 
-        <a href='#' style='color:#2e86c1; text-decoration:none;'>GitHub Repo</a>
+        <a href='https://github.com/callick' style='color:#2e86c1; text-decoration:none;'>Susmit's GitHub 👩🏻‍💻</a>
     </div>
 """, unsafe_allow_html=True)
